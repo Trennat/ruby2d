@@ -1,2 +1,5 @@
 require 'ruby2d'
-show
+
+set title: "Hello Triangle"
+
+show 
