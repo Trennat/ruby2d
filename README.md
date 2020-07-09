@@ -4,6 +4,9 @@ Intro project to ruby2d.
 The purpose of making this project is to learn the basics of the ruby gem ruby2d.
 
 TO RUN:
+    To download the repository:
+        git clone https://github.com/Trennat/ruby2d.git
+    
     In your terminal, clone the rbenv repo into ~/.rbenv:
 
     git clone https://github.com/rbenv/rbenv.git ~/.rbenv
